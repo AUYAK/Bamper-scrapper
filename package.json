@@ -1,0 +1,34 @@
+{
+  "name": "bamper-tires-scrapper",
+  "version": "1.0.0",
+  "description": "Скрапер шин bamper.by: история цен, статусы, база для анализа рыночной цены",
+  "main": "scrape.js",
+  "scripts": {
+    "full": "node scrape.js full",
+    "incremental": "node scrape.js incremental",
+    "details": "node scrape.js details",
+    "loop": "node scrape.js loop",
+    "status": "node check-status.js",
+    "migrate": "node tools/migrate.js",
+    "counts": "node tools/brand-counts.js",
+    "test": "node tools/test-parse.js",
+    "db-check": "node tools/db-check.js",
+    "clearance": "node tools/clearance.js",
+    "price-model": "node tools/price-model.js",
+    "reparse": "node tools/reparse.js",
+    "notify": "node notify.js",
+    "deals": "node tools/deals.js",
+    "tg-chats": "node tools/telegram-chats.js",
+    "alert-outcomes": "node tools/alert-outcomes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "pg": "^8.23.0"
+  },
+  "private": true
+}

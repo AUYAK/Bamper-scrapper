@@ -1,0 +1,9 @@
+node_modules/
+.env
+.cf-profile/
+.cf-profile*/
+data/dry-run/
+data/*.log
+*.log
+data/scrape.lock
+data/clearance.json

@@ -1,0 +1,1718 @@
+[
+ {
+  "slug": "accelera",
+  "name": "Accelera"
+ },
+ {
+  "slug": "achilles",
+  "name": "Achilles"
+ },
+ {
+  "slug": "admiral",
+  "name": "Admiral"
+ },
+ {
+  "slug": "advance",
+  "name": "Advance"
+ },
+ {
+  "slug": "advanta",
+  "name": "Advanta"
+ },
+ {
+  "slug": "aeolus",
+  "name": "Aeolus"
+ },
+ {
+  "slug": "allosaurus",
+  "name": "Allosaurus"
+ },
+ {
+  "slug": "altenzo",
+  "name": "Altenzo"
+ },
+ {
+  "slug": "alventi",
+  "name": "Alventi"
+ },
+ {
+  "slug": "amberway",
+  "name": "Amberway"
+ },
+ {
+  "slug": "amtel",
+  "name": "Amtel"
+ },
+ {
+  "slug": "anchee",
+  "name": "Anchee"
+ },
+ {
+  "slug": "annaite",
+  "name": "Annaite"
+ },
+ {
+  "slug": "antares",
+  "name": "Antares"
+ },
+ {
+  "slug": "aoteli",
+  "name": "Aoteli"
+ },
+ {
+  "slug": "aplus",
+  "name": "Aplus"
+ },
+ {
+  "slug": "apollo",
+  "name": "Apollo"
+ },
+ {
+  "slug": "aptany",
+  "name": "Aptany"
+ },
+ {
+  "slug": "arctic-claw",
+  "name": "Arctic Claw"
+ },
+ {
+  "slug": "arisun",
+  "name": "Arisun"
+ },
+ {
+  "slug": "arivo",
+  "name": "Arivo"
+ },
+ {
+  "slug": "arizonian",
+  "name": "Arizonian"
+ },
+ {
+  "slug": "armstrong",
+  "name": "Armstrong"
+ },
+ {
+  "slug": "arrowspeed",
+  "name": "Arrowspeed"
+ },
+ {
+  "slug": "arroyo",
+  "name": "Arroyo"
+ },
+ {
+  "slug": "artum",
+  "name": "Artum"
+ },
+ {
+  "slug": "aspen",
+  "name": "Aspen"
+ },
+ {
+  "slug": "atlander",
+  "name": "Atlander"
+ },
+ {
+  "slug": "atlas",
+  "name": "Atlas"
+ },
+ {
+  "slug": "attar",
+  "name": "Attar"
+ },
+ {
+  "slug": "atturo",
+  "name": "Atturo"
+ },
+ {
+  "slug": "aurora",
+  "name": "Aurora"
+ },
+ {
+  "slug": "austone",
+  "name": "Austone"
+ },
+ {
+  "slug": "autogreen",
+  "name": "Autogreen"
+ },
+ {
+  "slug": "autogrip",
+  "name": "Autogrip"
+ },
+ {
+  "slug": "autoguard",
+  "name": "Autoguard"
+ },
+ {
+  "slug": "avon",
+  "name": "Avon"
+ },
+ {
+  "slug": "bandvulc",
+  "name": "Bandvulc"
+ },
+ {
+  "slug": "barez",
+  "name": "Barez"
+ },
+ {
+  "slug": "barkley",
+  "name": "Barkley"
+ },
+ {
+  "slug": "bars-tires",
+  "name": "Bars Tires"
+ },
+ {
+  "slug": "barum",
+  "name": "Barum"
+ },
+ {
+  "slug": "bct",
+  "name": "BCT"
+ },
+ {
+  "slug": "bearway",
+  "name": "Bearway"
+ },
+ {
+  "slug": "benchmark",
+  "name": "Benchmark"
+ },
+ {
+  "slug": "berlin",
+  "name": "Berlin"
+ },
+ {
+  "slug": "berliner",
+  "name": "Berliner"
+ },
+ {
+  "slug": "bfgoodrich",
+  "name": "BFGoodrich"
+ },
+ {
+  "slug": "blackhawk",
+  "name": "Blackhawk"
+ },
+ {
+  "slug": "blacklion",
+  "name": "Blacklion"
+ },
+ {
+  "slug": "blackstone",
+  "name": "Blackstone"
+ },
+ {
+  "slug": "blue-streak",
+  "name": "Blue Streak"
+ },
+ {
+  "slug": "bob-jane",
+  "name": "Bob Jane"
+ },
+ {
+  "slug": "boto",
+  "name": "BOTO"
+ },
+ {
+  "slug": "bridgestone",
+  "name": "Bridgestone"
+ },
+ {
+  "slug": "briway",
+  "name": "Briway"
+ },
+ {
+  "slug": "caldera-tires",
+  "name": "Caldera Tires"
+ },
+ {
+  "slug": "camac",
+  "name": "Camac"
+ },
+ {
+  "slug": "capitol",
+  "name": "Capitol"
+ },
+ {
+  "slug": "carbon-series",
+  "name": "Carbon Series"
+ },
+ {
+  "slug": "ceat",
+  "name": "Ceat"
+ },
+ {
+  "slug": "cencotire",
+  "name": "Cencotire"
+ },
+ {
+  "slug": "centara",
+  "name": "Centara"
+ },
+ {
+  "slug": "champiro",
+  "name": "Champiro"
+ },
+ {
+  "slug": "chaoyang",
+  "name": "ChaoYang"
+ },
+ {
+  "slug": "charmhoo",
+  "name": "Charmhoo"
+ },
+ {
+  "slug": "chengshan",
+  "name": "Chengshan"
+ },
+ {
+  "slug": "chuanshi",
+  "name": "Chuanshi"
+ },
+ {
+  "slug": "churchill",
+  "name": "Churchill"
+ },
+ {
+  "slug": "clear",
+  "name": "Clear"
+ },
+ {
+  "slug": "coalstar",
+  "name": "Coalstar"
+ },
+ {
+  "slug": "collins",
+  "name": "Collins"
+ },
+ {
+  "slug": "comforcer",
+  "name": "Comforcer"
+ },
+ {
+  "slug": "compasal",
+  "name": "Compasal"
+ },
+ {
+  "slug": "constancy",
+  "name": "Constancy"
+ },
+ {
+  "slug": "continental",
+  "name": "Continental"
+ },
+ {
+  "slug": "contyre",
+  "name": "Contyre"
+ },
+ {
+  "slug": "cooper",
+  "name": "Cooper"
+ },
+ {
+  "slug": "copro",
+  "name": "Copro"
+ },
+ {
+  "slug": "cordiant",
+  "name": "Cordiant"
+ },
+ {
+  "slug": "cornell",
+  "name": "Cornell"
+ },
+ {
+  "slug": "cosmo",
+  "name": "Cosmo"
+ },
+ {
+  "slug": "cratos",
+  "name": "Cratos"
+ },
+ {
+  "slug": "crossleader",
+  "name": "Crossleader"
+ },
+ {
+  "slug": "cst",
+  "name": "CST"
+ },
+ {
+  "slug": "dailyway",
+  "name": "Dailyway"
+ },
+ {
+  "slug": "davanti",
+  "name": "Davanti"
+ },
+ {
+  "slug": "dayton",
+  "name": "Dayton"
+ },
+ {
+  "slug": "dean",
+  "name": "Dean"
+ },
+ {
+  "slug": "debica",
+  "name": "Debica"
+ },
+ {
+  "slug": "deestone",
+  "name": "Deestone"
+ },
+ {
+  "slug": "definity",
+  "name": "Definity"
+ },
+ {
+  "slug": "delinte",
+  "name": "Delinte"
+ },
+ {
+  "slug": "delmax",
+  "name": "Delmax"
+ },
+ {
+  "slug": "delta",
+  "name": "Delta"
+ },
+ {
+  "slug": "deruibo",
+  "name": "Deruibo"
+ },
+ {
+  "slug": "dextero",
+  "name": "Dextero"
+ },
+ {
+  "slug": "diamondback",
+  "name": "Diamondback"
+ },
+ {
+  "slug": "diplomat",
+  "name": "Diplomat"
+ },
+ {
+  "slug": "dmack",
+  "name": "DMACK"
+ },
+ {
+  "slug": "double-coin",
+  "name": "Double Coin"
+ },
+ {
+  "slug": "double-happiness",
+  "name": "Double Happiness"
+ },
+ {
+  "slug": "doublestar",
+  "name": "DoubleStar"
+ },
+ {
+  "slug": "douglas",
+  "name": "Douglas"
+ },
+ {
+  "slug": "dunlop",
+  "name": "Dunlop"
+ },
+ {
+  "slug": "duramold",
+  "name": "Duramold"
+ },
+ {
+  "slug": "duraturn",
+  "name": "Duraturn"
+ },
+ {
+  "slug": "duro",
+  "name": "Duro"
+ },
+ {
+  "slug": "durun",
+  "name": "Durun"
+ },
+ {
+  "slug": "dynamo",
+  "name": "Dynamo"
+ },
+ {
+  "slug": "ecoquattro",
+  "name": "EcoQuattro"
+ },
+ {
+  "slug": "ecovision",
+  "name": "Ecovision"
+ },
+ {
+  "slug": "effiplus",
+  "name": "Effiplus"
+ },
+ {
+  "slug": "eldorado",
+  "name": "Eldorado"
+ },
+ {
+  "slug": "equipe",
+  "name": "Equipe"
+ },
+ {
+  "slug": "esa-tecar",
+  "name": "ESA-Tecar"
+ },
+ {
+  "slug": "eternity",
+  "name": "Eternity"
+ },
+ {
+  "slug": "eurorepar",
+  "name": "Eurorepar"
+ },
+ {
+  "slug": "eurotec",
+  "name": "Eurotec"
+ },
+ {
+  "slug": "event",
+  "name": "Event"
+ },
+ {
+  "slug": "evergreen",
+  "name": "Evergreen"
+ },
+ {
+  "slug": "evoluxx",
+  "name": "Evoluxx"
+ },
+ {
+  "slug": "excelon",
+  "name": "Excelon"
+ },
+ {
+  "slug": "falken",
+  "name": "Falken"
+ },
+ {
+  "slug": "farroad",
+  "name": "Farroad"
+ },
+ {
+  "slug": "fate",
+  "name": "Fate"
+ },
+ {
+  "slug": "federal",
+  "name": "Federal"
+ },
+ {
+  "slug": "fighter",
+  "name": "Fighter"
+ },
+ {
+  "slug": "firemax",
+  "name": "Firemax"
+ },
+ {
+  "slug": "firenza",
+  "name": "Firenza"
+ },
+ {
+  "slug": "firestone",
+  "name": "Firestone"
+ },
+ {
+  "slug": "first-stop",
+  "name": "First Stop"
+ },
+ {
+  "slug": "forceland",
+  "name": "Forceland"
+ },
+ {
+  "slug": "forceum",
+  "name": "Forceum"
+ },
+ {
+  "slug": "formula",
+  "name": "Formula"
+ },
+ {
+  "slug": "fortio",
+  "name": "Fortio"
+ },
+ {
+  "slug": "fortuna",
+  "name": "Fortuna"
+ },
+ {
+  "slug": "forward",
+  "name": "Forward"
+ },
+ {
+  "slug": "fronway",
+  "name": "FronWay"
+ },
+ {
+  "slug": "fulda",
+  "name": "Fulda"
+ },
+ {
+  "slug": "fullrun",
+  "name": "FullRun"
+ },
+ {
+  "slug": "fullway",
+  "name": "Fullway"
+ },
+ {
+  "slug": "futura",
+  "name": "Futura"
+ },
+ {
+  "slug": "fuzion",
+  "name": "Fuzion"
+ },
+ {
+  "slug": "galaxy",
+  "name": "Galaxy"
+ },
+ {
+  "slug": "gauthpneus",
+  "name": "Gauth Pneus"
+ },
+ {
+  "slug": "gemstone",
+  "name": "Gemstone"
+ },
+ {
+  "slug": "gencotire",
+  "name": "Gencotire"
+ },
+ {
+  "slug": "general",
+  "name": "General"
+ },
+ {
+  "slug": "general-grabber",
+  "name": "General Grabber"
+ },
+ {
+  "slug": "gerutti",
+  "name": "Gerutti"
+ },
+ {
+  "slug": "gislaved",
+  "name": "Gislaved"
+ },
+ {
+  "slug": "giti",
+  "name": "Giti"
+ },
+ {
+  "slug": "gladiator",
+  "name": "Gladiator"
+ },
+ {
+  "slug": "glob-gum",
+  "name": "Glob-Gum"
+ },
+ {
+  "slug": "goalstar",
+  "name": "Goalstar"
+ },
+ {
+  "slug": "goform",
+  "name": "Goform"
+ },
+ {
+  "slug": "gold-gum",
+  "name": "Gold-Gum"
+ },
+ {
+  "slug": "goldencrown",
+  "name": "GoldenCrown"
+ },
+ {
+  "slug": "goldline",
+  "name": "Goldline"
+ },
+ {
+  "slug": "goldway",
+  "name": "GoldWay"
+ },
+ {
+  "slug": "goodride",
+  "name": "Goodride"
+ },
+ {
+  "slug": "goodtrip",
+  "name": "GoodTrip"
+ },
+ {
+  "slug": "goodyear",
+  "name": "Goodyear"
+ },
+ {
+  "slug": "gopro",
+  "name": "goPro"
+ },
+ {
+  "slug": "govino",
+  "name": "Govino"
+ },
+ {
+  "slug": "greentrac",
+  "name": "Greentrac"
+ },
+ {
+  "slug": "gremax",
+  "name": "Gremax"
+ },
+ {
+  "slug": "grenlander",
+  "name": "Grenlander"
+ },
+ {
+  "slug": "gripmax",
+  "name": "GripMax"
+ },
+ {
+  "slug": "gt-radial",
+  "name": "GT Radial"
+ },
+ {
+  "slug": "habilead",
+  "name": "Habilead"
+ },
+ {
+  "slug": "haida",
+  "name": "Haida"
+ },
+ {
+  "slug": "hankook",
+  "name": "Hankook"
+ },
+ {
+  "slug": "headway",
+  "name": "Headway"
+ },
+ {
+  "slug": "heidenau",
+  "name": "Heidenau"
+ },
+ {
+  "slug": "hemisphere",
+  "name": "Hemisphere"
+ },
+ {
+  "slug": "hercules",
+  "name": "Hercules"
+ },
+ {
+  "slug": "hero",
+  "name": "Hero"
+ },
+ {
+  "slug": "hifly",
+  "name": "Hifly"
+ },
+ {
+  "slug": "hilo",
+  "name": "Hilo"
+ },
+ {
+  "slug": "horizon",
+  "name": "Horizon"
+ },
+ {
+  "slug": "ikon-tyres",
+  "name": "Ikon Tyres"
+ },
+ {
+  "slug": "ilink",
+  "name": "Ilink"
+ },
+ {
+  "slug": "imperial",
+  "name": "Imperial"
+ },
+ {
+  "slug": "infinity",
+  "name": "Infinity"
+ },
+ {
+  "slug": "inning",
+  "name": "Inning"
+ },
+ {
+  "slug": "insa-turbo",
+  "name": "Insa Turbo"
+ },
+ {
+  "slug": "interstate",
+  "name": "Interstate"
+ },
+ {
+  "slug": "intertrac",
+  "name": "Intertrac"
+ },
+ {
+  "slug": "invovic",
+  "name": "Invovic"
+ },
+ {
+  "slug": "iota",
+  "name": "Iota"
+ },
+ {
+  "slug": "ironman",
+  "name": "Ironman"
+ },
+ {
+  "slug": "jetzon",
+  "name": "Jetzon"
+ },
+ {
+  "slug": "jinyu",
+  "name": "Jinyu"
+ },
+ {
+  "slug": "jk-tyre",
+  "name": "JK Tyre"
+ },
+ {
+  "slug": "joyroad",
+  "name": "Joyroad"
+ },
+ {
+  "slug": "kapsen",
+  "name": "Kapsen"
+ },
+ {
+  "slug": "kelly",
+  "name": "Kelly"
+ },
+ {
+  "slug": "kenda",
+  "name": "Kenda"
+ },
+ {
+  "slug": "keter",
+  "name": "Keter"
+ },
+ {
+  "slug": "kinforest",
+  "name": "Kinforest"
+ },
+ {
+  "slug": "king-meiler",
+  "name": "King-Meiler"
+ },
+ {
+  "slug": "kingpin",
+  "name": "Kingpin"
+ },
+ {
+  "slug": "kingrun",
+  "name": "Kingrun"
+ },
+ {
+  "slug": "kingstar",
+  "name": "Kingstar"
+ },
+ {
+  "slug": "kleber",
+  "name": "Kleber"
+ },
+ {
+  "slug": "kormoran",
+  "name": "Kormoran"
+ },
+ {
+  "slug": "kpatos",
+  "name": "Kpatos"
+ },
+ {
+  "slug": "kratos",
+  "name": "Kratos"
+ },
+ {
+  "slug": "kumho",
+  "name": "Kumho"
+ },
+ {
+  "slug": "kustone",
+  "name": "Kustone"
+ },
+ {
+  "slug": "landbolder",
+  "name": "LandBolder"
+ },
+ {
+  "slug": "landsail",
+  "name": "Landsail"
+ },
+ {
+  "slug": "landspider",
+  "name": "Landspider"
+ },
+ {
+  "slug": "lanvigator",
+  "name": "Lanvigator"
+ },
+ {
+  "slug": "lanwoo",
+  "name": "Lanwoo"
+ },
+ {
+  "slug": "lassa",
+  "name": "Lassa"
+ },
+ {
+  "slug": "laufenn",
+  "name": "Laufenn"
+ },
+ {
+  "slug": "leao",
+  "name": "Leao"
+ },
+ {
+  "slug": "lexani",
+  "name": "Lexani"
+ },
+ {
+  "slug": "linglong",
+  "name": "LingLong"
+ },
+ {
+  "slug": "lionhart",
+  "name": "LionHart"
+ },
+ {
+  "slug": "long-march",
+  "name": "Long March"
+ },
+ {
+  "slug": "luckyland",
+  "name": "Luckyland"
+ },
+ {
+  "slug": "luistone",
+  "name": "Luistone"
+ },
+ {
+  "slug": "luxxan",
+  "name": "Luxxan"
+ },
+ {
+  "slug": "mabor",
+  "name": "Mabor"
+ },
+ {
+  "slug": "malatesta",
+  "name": "Malatesta"
+ },
+ {
+  "slug": "marangoni",
+  "name": "Marangoni"
+ },
+ {
+  "slug": "marix",
+  "name": "Marix"
+ },
+ {
+  "slug": "marshal",
+  "name": "Marshal"
+ },
+ {
+  "slug": "massimo",
+  "name": "Massimo"
+ },
+ {
+  "slug": "master",
+  "name": "Master"
+ },
+ {
+  "slug": "mastercraft",
+  "name": "Mastercraft"
+ },
+ {
+  "slug": "mastersteel",
+  "name": "Mastersteel"
+ },
+ {
+  "slug": "matador",
+  "name": "Matador"
+ },
+ {
+  "slug": "mavis",
+  "name": "Mavis"
+ },
+ {
+  "slug": "maxmiller",
+  "name": "Maxmiller"
+ },
+ {
+  "slug": "maxtrek",
+  "name": "Maxtrek"
+ },
+ {
+  "slug": "maxxis",
+  "name": "Maxxis"
+ },
+ {
+  "slug": "mayrun",
+  "name": "Mayrun"
+ },
+ {
+  "slug": "mazzini",
+  "name": "Mazzini"
+ },
+ {
+  "slug": "medalion",
+  "name": "Medalion"
+ },
+ {
+  "slug": "membat",
+  "name": "Membat"
+ },
+ {
+  "slug": "mentor",
+  "name": "Mentor"
+ },
+ {
+  "slug": "meteor",
+  "name": "Meteor"
+ },
+ {
+  "slug": "metzeler",
+  "name": "Metzeler"
+ },
+ {
+  "slug": "michelin",
+  "name": "Michelin"
+ },
+ {
+  "slug": "mickey-thompson",
+  "name": "Mickey Thompson"
+ },
+ {
+  "slug": "midas",
+  "name": "Midas"
+ },
+ {
+  "slug": "mileking",
+  "name": "Mileking"
+ },
+ {
+  "slug": "milestar",
+  "name": "Milestar"
+ },
+ {
+  "slug": "milestone",
+  "name": "Milestone"
+ },
+ {
+  "slug": "minerva",
+  "name": "Minerva"
+ },
+ {
+  "slug": "minnell",
+  "name": "Minnell"
+ },
+ {
+  "slug": "mirage",
+  "name": "Mirage"
+ },
+ {
+  "slug": "mitas",
+  "name": "Mitas"
+ },
+ {
+  "slug": "mohave",
+  "name": "Mohave"
+ },
+ {
+  "slug": "mohawk",
+  "name": "Mohawk"
+ },
+ {
+  "slug": "momo",
+  "name": "Momo"
+ },
+ {
+  "slug": "motomaster",
+  "name": "MotoMaster"
+ },
+ {
+  "slug": "motrio",
+  "name": "Motrio"
+ },
+ {
+  "slug": "mrf",
+  "name": "MRF"
+ },
+ {
+  "slug": "multi-mile",
+  "name": "Multi-Mile"
+ },
+ {
+  "slug": "multirac",
+  "name": "Multirac"
+ },
+ {
+  "slug": "nankang",
+  "name": "Nankang"
+ },
+ {
+  "slug": "negotiator",
+  "name": "Negotiator"
+ },
+ {
+  "slug": "neolin",
+  "name": "Neolin"
+ },
+ {
+  "slug": "nereus",
+  "name": "Nereus"
+ },
+ {
+  "slug": "nexen",
+  "name": "Nexen"
+ },
+ {
+  "slug": "next-tread",
+  "name": "Next Tread"
+ },
+ {
+  "slug": "nika",
+  "name": "Nika"
+ },
+ {
+  "slug": "nitto",
+  "name": "Nitto"
+ },
+ {
+  "slug": "nokian",
+  "name": "Nokian"
+ },
+ {
+  "slug": "norauto",
+  "name": "Norauto"
+ },
+ {
+  "slug": "nordexx",
+  "name": "Nordexx"
+ },
+ {
+  "slug": "nordman",
+  "name": "Nordman"
+ },
+ {
+  "slug": "nortenha",
+  "name": "Nortenha"
+ },
+ {
+  "slug": "novex",
+  "name": "Novex"
+ },
+ {
+  "slug": "ohtsu",
+  "name": "Ohtsu"
+ },
+ {
+  "slug": "onyx",
+  "name": "Onyx"
+ },
+ {
+  "slug": "opals",
+  "name": "Opals"
+ },
+ {
+  "slug": "orium",
+  "name": "Orium"
+ },
+ {
+  "slug": "otani",
+  "name": "Otani"
+ },
+ {
+  "slug": "outside",
+  "name": "Outside"
+ },
+ {
+  "slug": "ovation",
+  "name": "Ovation"
+ },
+ {
+  "slug": "pace",
+  "name": "Pace"
+ },
+ {
+  "slug": "pantera",
+  "name": "Pantera"
+ },
+ {
+  "slug": "permanent",
+  "name": "Permanent"
+ },
+ {
+  "slug": "petlas",
+  "name": "Petlas"
+ },
+ {
+  "slug": "phantom",
+  "name": "Phantom"
+ },
+ {
+  "slug": "pinso",
+  "name": "Pinso"
+ },
+ {
+  "slug": "pirelli",
+  "name": "Pirelli"
+ },
+ {
+  "slug": "platin",
+  "name": "Platin"
+ },
+ {
+  "slug": "pneumant",
+  "name": "Pneumant"
+ },
+ {
+  "slug": "points",
+  "name": "Points"
+ },
+ {
+  "slug": "powertrac",
+  "name": "Powertrac"
+ },
+ {
+  "slug": "premada",
+  "name": "Premada"
+ },
+ {
+  "slug": "premiorri",
+  "name": "Premiorri"
+ },
+ {
+  "slug": "presa",
+  "name": "Presa"
+ },
+ {
+  "slug": "prestivo",
+  "name": "Prestivo"
+ },
+ {
+  "slug": "primewell",
+  "name": "Primewell"
+ },
+ {
+  "slug": "prinx",
+  "name": "Prinx"
+ },
+ {
+  "slug": "profil",
+  "name": "Profil"
+ },
+ {
+  "slug": "provato",
+  "name": "Provato"
+ },
+ {
+  "slug": "radar",
+  "name": "Radar"
+ },
+ {
+  "slug": "radburg",
+  "name": "Radburg"
+ },
+ {
+  "slug": "rapid",
+  "name": "Rapid"
+ },
+ {
+  "slug": "regal",
+  "name": "Regal"
+ },
+ {
+  "slug": "rigdon",
+  "name": "Rigdon"
+ },
+ {
+  "slug": "riken",
+  "name": "Riken"
+ },
+ {
+  "slug": "road-hugger",
+  "name": "Road Hugger"
+ },
+ {
+  "slug": "roadclaw",
+  "name": "Roadclaw"
+ },
+ {
+  "slug": "roadcruza",
+  "name": "Roadcruza"
+ },
+ {
+  "slug": "roadhog",
+  "name": "Roadhog"
+ },
+ {
+  "slug": "roadking",
+  "name": "Roadking"
+ },
+ {
+  "slug": "roadmarch",
+  "name": "Roadmarch"
+ },
+ {
+  "slug": "roador",
+  "name": "Roador"
+ },
+ {
+  "slug": "roadshine",
+  "name": "Roadshine"
+ },
+ {
+  "slug": "roadstone",
+  "name": "Roadstone"
+ },
+ {
+  "slug": "roadx",
+  "name": "RoadX"
+ },
+ {
+  "slug": "rockblade",
+  "name": "Rockblade"
+ },
+ {
+  "slug": "rockstone",
+  "name": "Rockstone"
+ },
+ {
+  "slug": "rosava",
+  "name": "Rosava"
+ },
+ {
+  "slug": "rotalla",
+  "name": "Rotalla"
+ },
+ {
+  "slug": "rotex",
+  "name": "Rotex"
+ },
+ {
+  "slug": "routeway",
+  "name": "Routeway"
+ },
+ {
+  "slug": "rovelo",
+  "name": "Rovelo"
+ },
+ {
+  "slug": "royal-black",
+  "name": "Royal Black"
+ },
+ {
+  "slug": "runway",
+  "name": "Runway"
+ },
+ {
+  "slug": "rydanz",
+  "name": "Rydanz"
+ },
+ {
+  "slug": "saferich",
+  "name": "Saferich"
+ },
+ {
+  "slug": "sagitar",
+  "name": "Sagitar"
+ },
+ {
+  "slug": "sailun",
+  "name": "Sailun"
+ },
+ {
+  "slug": "sailwin",
+  "name": "Sailwin"
+ },
+ {
+  "slug": "sava",
+  "name": "Sava"
+ },
+ {
+  "slug": "seamtyre",
+  "name": "Seamtyre"
+ },
+ {
+  "slug": "sebring",
+  "name": "Sebring"
+ },
+ {
+  "slug": "security",
+  "name": "Security"
+ },
+ {
+  "slug": "securo",
+  "name": "Securo"
+ },
+ {
+  "slug": "semperit",
+  "name": "Semperit"
+ },
+ {
+  "slug": "sentury",
+  "name": "Sentury"
+ },
+ {
+  "slug": "shinko",
+  "name": "Shinko"
+ },
+ {
+  "slug": "silverstone",
+  "name": "Silverstone"
+ },
+ {
+  "slug": "sonar",
+  "name": "Sonar"
+ },
+ {
+  "slug": "sonny",
+  "name": "Sonny"
+ },
+ {
+  "slug": "spider",
+  "name": "Spider"
+ },
+ {
+  "slug": "sportiva",
+  "name": "Sportiva"
+ },
+ {
+  "slug": "stampede",
+  "name": "Stampede"
+ },
+ {
+  "slug": "star-performer",
+  "name": "Star Performer"
+ },
+ {
+  "slug": "starfire",
+  "name": "Starfire"
+ },
+ {
+  "slug": "starmaxx",
+  "name": "Starmaxx"
+ },
+ {
+  "slug": "strial",
+  "name": "Strial"
+ },
+ {
+  "slug": "sumitomo",
+  "name": "Sumitomo"
+ },
+ {
+  "slug": "sunew",
+  "name": "Sunew"
+ },
+ {
+  "slug": "sunfull",
+  "name": "Sunfull"
+ },
+ {
+  "slug": "sunitrac",
+  "name": "Sunitrac"
+ },
+ {
+  "slug": "sunny",
+  "name": "Sunny"
+ },
+ {
+  "slug": "suntek",
+  "name": "Suntek"
+ },
+ {
+  "slug": "sunwide",
+  "name": "Sunwide"
+ },
+ {
+  "slug": "supercat",
+  "name": "Supercat"
+ },
+ {
+  "slug": "superia",
+  "name": "Superia"
+ },
+ {
+  "slug": "supermax",
+  "name": "Supermax"
+ },
+ {
+  "slug": "syron",
+  "name": "Syron"
+ },
+ {
+  "slug": "taganca",
+  "name": "Taganca"
+ },
+ {
+  "slug": "tagomtires",
+  "name": "Tagomtires"
+ },
+ {
+  "slug": "taurus",
+  "name": "Taurus"
+ },
+ {
+  "slug": "teamstar",
+  "name": "TeamStar"
+ },
+ {
+  "slug": "tecar",
+  "name": "Tecar"
+ },
+ {
+  "slug": "three-a",
+  "name": "Three-a"
+ },
+ {
+  "slug": "thunderer",
+  "name": "Thunderer"
+ },
+ {
+  "slug": "tigar",
+  "name": "Tigar"
+ },
+ {
+  "slug": "toledo",
+  "name": "Toledo"
+ },
+ {
+  "slug": "tomket",
+  "name": "Tomket"
+ },
+ {
+  "slug": "torero",
+  "name": "Torero"
+ },
+ {
+  "slug": "torque",
+  "name": "Torque"
+ },
+ {
+  "slug": "tourador",
+  "name": "Tourador"
+ },
+ {
+  "slug": "toyo",
+  "name": "Toyo"
+ },
+ {
+  "slug": "tracmax",
+  "name": "Tracmax"
+ },
+ {
+  "slug": "travelstar",
+  "name": "Travelstar"
+ },
+ {
+  "slug": "trayal",
+  "name": "Trayal"
+ },
+ {
+  "slug": "trazano",
+  "name": "Trazano"
+ },
+ {
+  "slug": "tri-ace",
+  "name": "Tri Ace"
+ },
+ {
+  "slug": "triangle",
+  "name": "Triangle"
+ },
+ {
+  "slug": "tristar",
+  "name": "Tristar"
+ },
+ {
+  "slug": "tunga",
+  "name": "Tunga"
+ },
+ {
+  "slug": "tyfoon",
+  "name": "Tyfoon"
+ },
+ {
+  "slug": "tyrex",
+  "name": "TyRex"
+ },
+ {
+  "slug": "unigrip",
+  "name": "Unigrip"
+ },
+ {
+  "slug": "uniroyal",
+  "name": "Uniroyal"
+ },
+ {
+  "slug": "unistar",
+  "name": "Unistar"
+ },
+ {
+  "slug": "vee-rubber",
+  "name": "Vee Rubber"
+ },
+ {
+  "slug": "vercelli",
+  "name": "Vercelli"
+ },
+ {
+  "slug": "viatti",
+  "name": "Viatti"
+ },
+ {
+  "slug": "viking",
+  "name": "Viking"
+ },
+ {
+  "slug": "Vinmax",
+  "name": "Vinmax"
+ },
+ {
+  "slug": "vitora",
+  "name": "Vitora"
+ },
+ {
+  "slug": "vitron",
+  "name": "Vitron"
+ },
+ {
+  "slug": "vittos",
+  "name": "Vittos"
+ },
+ {
+  "slug": "voltyre",
+  "name": "Voltyre"
+ },
+ {
+  "slug": "voyager",
+  "name": "Voyager"
+ },
+ {
+  "slug": "vredestein",
+  "name": "Vredestein"
+ },
+ {
+  "slug": "wanli",
+  "name": "Wanli"
+ },
+ {
+  "slug": "westlake",
+  "name": "WestLake"
+ },
+ {
+  "slug": "winda",
+  "name": "Winda"
+ },
+ {
+  "slug": "windforce",
+  "name": "Windforce"
+ },
+ {
+  "slug": "windpower",
+  "name": "Windpower"
+ },
+ {
+  "slug": "winrun",
+  "name": "Winrun"
+ },
+ {
+  "slug": "winter-tact",
+  "name": "Winter Tact"
+ },
+ {
+  "slug": "xcent",
+  "name": "Xcent"
+ },
+ {
+  "slug": "yatone",
+  "name": "Yatone"
+ },
+ {
+  "slug": "yeada",
+  "name": "Yeada"
+ },
+ {
+  "slug": "yokohama",
+  "name": "Yokohama"
+ },
+ {
+  "slug": "zeetex",
+  "name": "Zeetex"
+ },
+ {
+  "slug": "zenna",
+  "name": "Zenna"
+ },
+ {
+  "slug": "zeta",
+  "name": "Zeta"
+ },
+ {
+  "slug": "zetum",
+  "name": "Zetum"
+ },
+ {
+  "slug": "zhone",
+  "name": "Zhone"
+ },
+ {
+  "slug": "zmax",
+  "name": "Zmax"
+ },
+ {
+  "slug": "ashk",
+  "name": "АШК"
+ },
+ {
+  "slug": "belshina",
+  "name": "Белшина"
+ },
+ {
+  "slug": "kama",
+  "name": "Кама"
+ },
+ {
+  "slug": "kama-evro",
+  "name": "Кама-Евро"
+ },
+ {
+  "slug": "kshz",
+  "name": "КШЗ"
+ },
+ {
+  "slug": "medved",
+  "name": "Медведь"
+ },
+ {
+  "slug": "metelitsa",
+  "name": "Метелица"
+ },
+ {
+  "slug": "omskshina",
+  "name": "Омскшина"
+ },
+ {
+  "slug": "rosshina",
+  "name": "Росшина"
+ }
+]
